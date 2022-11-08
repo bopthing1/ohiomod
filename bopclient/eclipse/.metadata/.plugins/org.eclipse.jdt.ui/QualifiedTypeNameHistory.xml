@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.GameRules.ValueType"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="net.minecraft.util.IChatComponent"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="net.minecraft.tileentity.TileEntity"/>
+    <fullyQualifiedTypeName name="com.jcraft.jorbis.Block"/>
+    <fullyQualifiedTypeName name="net.minecraft.util.BlockPos"/>
+    <fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+    <fullyQualifiedTypeName name="net.minecraft.potion.PotionEffect"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Client/src&lt;net.minecraft.client.gui{GuiButton.java[GuiButton" modifiers="1" timestamp="1657074912209"/>
+    <typeInfo handle="=Client/jars\/libraries\/com\/mojang\/realms\/1.7.39\/realms-1.7.39.jar&lt;com.mojang.realmsclient.dto(PlayerInfo.class[PlayerInfo" modifiers="33" timestamp="1650223815795"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.server.management{PlayerManager.java[PlayerManager[PlayerInstance" modifiers="0" timestamp="1650324375169"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.entity.player{PlayerCapabilities.java[PlayerCapabilities" modifiers="1" timestamp="1650324176770"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.command{PlayerSelector.java[PlayerSelector" modifiers="1" timestamp="1650223741958"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.server.management{PlayerManager.java[PlayerManager" modifiers="1" timestamp="1650324375169"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.block{BlockPressurePlate.java[BlockPressurePlate[Sensitivity" modifiers="16393" timestamp="1650223736973"/>
+    <typeInfo handle="=Client/src&lt;optifine{PlayerConfiguration.java[PlayerConfiguration" modifiers="1" timestamp="1650223749517"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.client.audio{MusicTicker.java[MusicTicker" modifiers="1" timestamp="1653859756659"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.command{CommandPlaySound.java[CommandPlaySound" modifiers="1" timestamp="1650223741787"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.command.server{CommandSummon.java[CommandSummon" modifiers="1" timestamp="1650223742164"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.item{ItemSword.java[ItemSword" modifiers="1" timestamp="1656969405733"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.block{BlockBreakable.java[BlockBreakable" modifiers="1" timestamp="1650223736301"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.block{Block.java[Block" modifiers="1" timestamp="1656971957092"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.block{BlockCake.java[BlockCake" modifiers="1" timestamp="1656973036873"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.client.gui{GuiScreenCustomizePresets.java[GuiScreenCustomizePresets[Info" modifiers="8" timestamp="1650223738203"/>
+    <typeInfo handle="=Client/C:\/Program Files\/Java\/jdk-17.0.1\/lib\/jrt-fs.jar`java.desktop=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/&lt;java.awt(SplashScreen.class[SplashScreen" modifiers="49" timestamp="1640491340911"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.client{Minecraft.java[Minecraft" modifiers="1" timestamp="1653863569428"/>
+    <typeInfo handle="=Client/src&lt;net.minecraft.client.gui{GuiOptions.java[GuiOptions" modifiers="1" timestamp="1653863569434"/>
+</typeInfoHistroy>
