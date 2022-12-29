@@ -19,8 +19,8 @@ import java.util.function.Supplier;
 public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, OhioMod.MOD_ID);
 
-    public static final RegistryObject<Block> CLEVELAND_BLOCK = registerBlock("cleveland_block", () -> new Block(BlockBehaviour.Properties.of(Material.AMETHYST)
-            .strength(0f)
+    public static final RegistryObject<Block> CLEVELAND_BLOCK = registerBlock("cleveland_block.json", () -> new Block(BlockBehaviour.Properties.of(Material.AMETHYST)
+            .strength(10f)
             .requiresCorrectToolForDrops()
 
     ), ModCreativeModeTab.OHIO_TAB);

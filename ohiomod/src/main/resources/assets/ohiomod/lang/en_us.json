@@ -1,4 +1,6 @@
 {
   "item.ohiomod.ohio_pickaxe": "ohio pickaxe",
-  "block.ohiomod.cleveland_block": "cleveland block"
+  "block.ohiomod.cleveland_block": "cleveland block",
+  "item.ohiomod.cleveland_ore": "ohio ore",
+  "item.ohiomod.ohio_crystal": "ohio crystal"
 }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boat",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ohiomod:cleveland_ore"
+    }
+  },
+  "result": {
+    "item": "ohiomod:cleveland_block"
+  }
+}
